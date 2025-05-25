@@ -13,8 +13,8 @@ To write a Python program to read a number and check whether the number is divis
 
 ## PROGRAM
 ```python
-# Reg.No-212223060196
-# Name-Peter Ambrose B
+# Reg.No-212223060006
+# Name-Abishek R
 
 a=int(input())
 if(a%9==0):
