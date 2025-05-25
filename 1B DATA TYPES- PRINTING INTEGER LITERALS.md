@@ -10,8 +10,8 @@ To write a python program to read one integer and float  value.
 
 ## PROGRAM
 ```python
-# Reg.No-212223060196
-# Name-Peter Ambrose B
+# Reg.No-212223060006
+# Name-Abishek R
 
 a=int(input())
 b=float(input())
